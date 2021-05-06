@@ -26,7 +26,8 @@ func main() {
                 time.Sleep(time.Duration(n)*time.Second/10)
                 fmt.Println("Changing nappy!")
         }
-}```
+}
+```
 
 
 You'll find me on slack or here on github, don't hesitate to reach out!
